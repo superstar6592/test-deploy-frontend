@@ -1,3 +1,5 @@
+"use client";
+
 import { useAtom } from "jotai";
 import { chatServerAtom } from "@/store/auth";
 import DMList from "./dmList";

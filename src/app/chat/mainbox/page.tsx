@@ -1,3 +1,5 @@
+"use client";
+
 import { useAtom } from "jotai";
 import { chatMainBox } from "@/store/auth";
 import { chatServerAtom } from "@/store/auth";

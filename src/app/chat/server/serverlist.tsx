@@ -1,4 +1,5 @@
 "use client";
+
 import { useEffect, useState } from "react";
 import { useAtom } from "jotai";
 import Image from "next/image";
